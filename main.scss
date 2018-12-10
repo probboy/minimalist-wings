@@ -1,11 +1,23 @@
-
-
-body{
-    background: gray;
-    #productframe{
-        width: 100px;
-        
+body {
+    h1 {
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding: .5em;
+        color: pink;
     }
-   
+    background: whitesmoke;
+    #productframe {
+        width: 100px;
+    }
+    h4 {
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding: .5em;
+        color: pink;
+    }
+    div{
+        img{
+            border-radius: 1em; 
+        }
+    }
 }
-
